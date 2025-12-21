@@ -46,4 +46,10 @@ Machine learning–based platform for predicting property prices using Python an
 
 ---
 
+### 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/KareemOwaiz/KareemOwaiz/output/github-contribution-grid-snake-dark.svg)
+
+
 ⭐ *Feel free to explore my repositories and give feedback!*  
+
