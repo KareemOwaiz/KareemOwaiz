@@ -5,10 +5,18 @@ on:
     - cron: "0 18 * * *"   # runs daily
   workflow_dispatch:
 
+permissions:
+  contents: write   # 🔥 REQUIRED to push files
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # 1️⃣ Checkout your repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2️⃣ Generate 3D contribution graph
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@main
         env:
