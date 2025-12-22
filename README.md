@@ -68,6 +68,12 @@ Machine learning system that predicts property prices using historical data.
 
 ---
 
+### 🔥 Consistency & Momentum
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KareemOwaiz&theme=radical)
+
+
+
 ## 🐍 Contribution Activity
 Consistent contributor focused on continuous improvement and shipping projects.
 
