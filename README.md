@@ -1,60 +1,70 @@
-## Hi there 👋 I'm Kareem Owaiz
+## 👋 Kareem Owaiz | Software Developer
 
-🎓 Aspiring Software Engineer & Machine Learning Enthusiast  
-💻 Skilled in Java, Python, and Full-Stack Development  
-🤖 Passionate about Data Science and AI-driven applications  
-
----
-
-### 🚀 About Me
-I am a motivated developer with a strong foundation in **Java, Python, and Machine Learning**.  
-I enjoy building **real-world projects**, deploying them live, and continuously improving my problem-solving skills.
+🚀 Software Developer focused on building **scalable applications**, **production-ready ML systems**, and **clean, maintainable code**  
+💡 Strong in Java, Python, Full-Stack Development, and Machine Learning  
+📍 Open to internships, entry-level software roles, and collaborative projects  
 
 ---
 
-### 🛠️ Technical Skills
-- **Programming Languages:** Java, Python, JavaScript  
-- **Machine Learning & Data Science:** Pandas, NumPy, Scikit-learn, PyTorch  
-- **Web Technologies:** HTML, CSS, React.js, Gradio  
-- **Databases:** MySQL, MongoDB  
-- **Tools & Platforms:** Git, GitHub, Google Colab, VS Code, Render  
+## 🔍 What I Bring as a Developer
+- Build **end-to-end applications** — from data processing to deployment  
+- Write **clean, modular, and testable code**  
+- Strong understanding of **DSA fundamentals, OOP, and system basics**  
+- Experience turning ML models into **usable web applications**  
+- Comfortable working with Git, APIs, and modern development workflows  
 
 ---
 
-### 📌 Featured Projects
-🔹 **Object Detection Web App (DETR – ResNet-50)**  
-A transformer-based object detection application using PyTorch and Hugging Face, deployed live with Gradio.  
-👉 **Live Demo:** https://kareemowaiz-object-detection-system.hf.space                                                        
-👉 **Repository:** https://github.com/KareemOwaiz/Object-Detection-System
+## 🛠️ Technical Stack
 
-🔹 **Real Estate Price Prediction System**  
-Machine learning–based platform for predicting property prices using Python and data analysis techniques.
-
----
-
-### 🌱 Currently Learning
-- Advanced Java & Spring Boot  
-- Machine Learning Model Deployment  
-- Full-Stack Application Development  
+**Languages:** Java, Python, JavaScript  
+**Backend / ML:** Python, PyTorch, Scikit-learn  
+**Frontend:** HTML, CSS, React.js, Gradio  
+**Databases:** MySQL, MongoDB  
+**Tools & Platforms:** Git, GitHub, VS Code, Google Colab, Render  
 
 ---
 
-### 📫 Connect With Me
-- **GitHub:** https://github.com/KareemOwaiz  
-- **LinkedIn:** *(add your LinkedIn link here)*  
-- **Email:** *Kareemowaiz01@gmail.com*  
+## 📌 Selected Projects (Real-World & Deployed)
+
+### 🔹 Object Detection Web Application (DETR – ResNet-50)
+Production-ready object detection system built with **PyTorch** and deployed using **Gradio**.  
+- Implemented transformer-based DETR model for real-time inference  
+- Designed a clean UI for uploading images and visualizing predictions  
+- Deployed publicly for live user interaction  
+
+👉 **Live Demo:** https://kareemowaiz-object-detection-system.hf.space  
+👉 **Code:** https://github.com/KareemOwaiz/Object-Detection-System  
 
 ---
 
+### 🔹 Real Estate Price Prediction Platform
+Machine learning system that predicts property prices using historical data.  
+- Performed data cleaning, feature engineering, and model training  
+- Built regression models to estimate market prices  
+- Focused on interpretability and real-world usability  
+
 ---
 
-### 🐍⚡ High-Energy Contribution Snake
+## 📈 What I’m Actively Improving
+- Advanced Java & Spring Boot (backend architecture)  
+- Scalable system design fundamentals  
+- ML model deployment & optimization  
+- Writing production-grade APIs  
 
-⚡ Always moving across the grid — coding, learning, and refueling with snacks 🍿🥨🍪
+---
 
-![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/KareemOwaiz/KareemOwaiz/output/github-contribution-grid-snake-dark.svg)
+## 🤝 Let’s Connect
+📩 **Email:** Kareemowaiz01@gmail.com  
+🔗 **GitHub:** https://github.com/KareemOwaiz  
+💼 **LinkedIn:** *(add your LinkedIn link here)*  
 
+> I’m open to **internships, entry-level software roles, and impactful collaborations**.  
+> If you’re looking for someone who learns fast and builds with intent — let’s talk.
 
+---
 
-⭐ *Feel free to explore my repositories and give feedback!*  
+## 🐍 Contribution Activity
+Consistent contributor focused on continuous improvement and shipping projects.
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/KareemOwaiz/KareemOwaiz/output/github-contribution-grid-snake-dark.svg)
