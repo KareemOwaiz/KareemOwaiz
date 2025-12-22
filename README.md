@@ -24,7 +24,7 @@ I enjoy building **real-world projects**, deploying them live, and continuously 
 ### 📌 Featured Projects
 🔹 **Object Detection Web App (DETR – ResNet-50)**  
 A transformer-based object detection application using PyTorch and Hugging Face, deployed live with Gradio.  
-👉 **Live Demo:** https://kareemowaiz-object-detection-system.hf.space
+👉 **Live Demo:** https://kareemowaiz-object-detection-system.hf.space                                                        
 👉 **Repository:** https://github.com/KareemOwaiz/Object-Detection-System
 
 🔹 **Real Estate Price Prediction System**  
